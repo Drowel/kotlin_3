@@ -15,7 +15,7 @@ fun calendarName(){
         4 -> "Среда"
         5 -> "Четверг"
         6 -> "Пятница"
-        else -> "end oof time"
+        else -> " "
     }
     println(day)
 
